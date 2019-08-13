@@ -10,3 +10,8 @@
 .right{
     text-align: center;  
 }
+p{
+    font-size: 2em;
+    font-family: 'museo500';
+    color: #2a67bd; 
+}
